@@ -26,7 +26,7 @@
 ## 🔴算法与数据结构 Algorithm & Data Structure
 - `Josh Hug`'s Berkeley [`CS61B`](https://sp21.datastructur.es/) Data Structures📺🍭
 
-- Princeton [`COS226`](https://www.cs.princeton.edu/courses/cos226/) Algorithms and Data Structures
+- Princeton [`COS226`](https://www.cs.princeton.edu/~cos226) Algorithms and Data Structures
 
 - Coursera Algorithms[`1`](https://www.coursera.org/learn/algorithms-part1)+[`2`](https://www.coursera.org/learn/algorithms-part2)📺🍭
 
