@@ -162,7 +162,9 @@
 
 - Stanford [`CS231n`](https://github.com/cs231n) Deep Learning for Computer Vision📺
 
-- Stanford [`CS324`](https://stanford-cs324.github.io/winter2023/) Large Language Models
+- Stanford [`CS324`](https://cs324.stanford.edu) Advances in Foundation Models
+
+- Stanford [`CS336`](https://cs336.stanford.edu) Language Modeling from Scratch
 
 - UMich [`EECS498`](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r) Deep Learning for Computer Vision📺
 
