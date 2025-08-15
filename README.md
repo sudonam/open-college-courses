@@ -144,7 +144,7 @@
 
 - Berkeley [`CS285`](https://rail.eecs.berkeley.edu/deeprlcourse/) Deep Reinforcement Learning📺
 
-- 李宏毅 [機器學習](https://speech.ee.ntu.edu.tw/~hylee/ml/2023-spring.php)📺🍭
+- 李宏毅 [機器學習](https://speech.ee.ntu.edu.tw/~hylee/ml/2025-spring.php)📺🍭
 
 - MIT [`6.S191`](https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) Introduction to Deep Learning📺
 
