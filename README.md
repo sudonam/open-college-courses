@@ -158,7 +158,7 @@
 
 - Stanford [`CS224W`](https://web.stanford.edu/class/cs224w/) Machine Learning with Graphs📺
 
-- Stanford [`CS231n`](https://github.com/cs231n) Deep Learning for Computer Vision📺
+- Stanford [`CS231n`](https://cs231n.stanford.edu) Deep Learning for Computer Vision📺
 
 - Stanford [`CS324`](https://cs324.stanford.edu) Advances in Foundation Models
 
