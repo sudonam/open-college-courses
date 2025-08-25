@@ -60,8 +60,6 @@
 
 - CMU [`15-213`](https://www.cs.cmu.edu/~213/) Intro to Computer Systems📺🍭
 
-- NJU [计算机系统基础](https://www.icourse163.org/course/NJU-1001625001)📺
-
 - MIT [`6.033`](https://ocw.mit.edu/courses/6-033-computer-system-engineering-spring-2018/) Computer System Engineering
 
 - [`Onur Mutlu`](https://safari.ethz.ch/courses/)'s ETH Zurich Computer Architecture📺
