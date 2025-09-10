@@ -174,7 +174,7 @@
 
 - Stanford [`CS148`](https://cs148.stanford.edu/) Introduction to Computer Graphics and Imaging
 
-- CMU [`15-462`](https://youtube.com/playlist?list=PL9_jI1bdZmz2emSh0UQ5iOdT2xRHFHL7E) Computer Graphics📺🍭
+- CMU [`15-462`](https://15462.courses.cs.cmu.edu/fall2020/) Computer Graphics📺🍭
 
 - UPenn [`CIS565`](https://cis565-fall-2022.github.io/) GPU Programming and Architecture📺
 ## 🟠电气工程 Electrical Engineering
