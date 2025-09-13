@@ -120,8 +120,6 @@
 
 - Berkeley [`CS70`](https://www.eecs70.org/) Discrete Mathematics and Probability Theory
 
-- Berkeley [`EE127`](https://www.youtube.com/playlist?list=PLnocShPlK-Fsj9puVGWJ1byL-WeKW1CMb) Optimization Models in Engineering📺
-
 - MIT [`6.041`](https://ocw.mit.edu/6-041F10) Probabilistic Systems Analysis and Applied Probability📺
 
 - MIT [`18.06`](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/) Linear Algebra📺🍭
@@ -140,7 +138,7 @@
 
 - 李宏毅 [機器學習](https://speech.ee.ntu.edu.tw/~hylee/ml/2025-spring.php)📺🍭
 
-- MIT [`6.S191`](https://youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI) Introduction to Deep Learning📺
+- MIT [`6.S191`](https://introtodeeplearning.com/) Introduction to Deep Learning📺
 
 - MIT [`6.5940`](https://efficientml.ai/) TinyML and Efficient Deep Learning Computing📺
 
